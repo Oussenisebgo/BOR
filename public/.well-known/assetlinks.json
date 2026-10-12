@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.smartfridge.culinary.twa",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7F:0F:52:AB:7B:85:42:F6:12:16:4F:37:44:44:11:04:F4:60:50:54:77:A8:40:11:64:72:4E:7D:0C"
+      ]
+    }
+  }
+]

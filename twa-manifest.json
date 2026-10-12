@@ -1,0 +1,33 @@
+{
+  "packageId": "app.smartfridge.culinary.twa",
+  "host": "smart-fridge-culinary.web.app",
+  "name": "Smart Fridge & Culinary Assistant",
+  "launcherName": "SmartFridge",
+  "themeColor": "#10B981",
+  "navigationColor": "#0C0A09",
+  "backgroundColor": "#0C0A09",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "/pwa-512x512.png",
+  "maskableIconUrl": "/pwa-maskable-512x512.png",
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [
+    {
+      "name": "Scan Fridge",
+      "short_name": "Scan",
+      "url": "/",
+      "icon": "/pwa-192x192.png"
+    }
+  ],
+  "webManifestUrl": "/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {
+    "playBilling": {
+      "enabled": false
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  }
+}

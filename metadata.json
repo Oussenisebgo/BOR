@@ -1,0 +1,6 @@
+{
+  "name": "Smart Fridge & Culinary Assistant",
+  "description": "Snap a photo of your fridge to detect ingredients, get AI-powered recipes with dietary filters, hands-free cooking mode with voice read-aloud, and instant shopping list.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
